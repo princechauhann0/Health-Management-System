@@ -19,6 +19,5 @@ Prerequisites
 
 ## Run
 1. Clone the repo:
-   ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
+   ```bash git clone https://github.com/<your-username>/<repo-name>.git
    cd <repo-name>
