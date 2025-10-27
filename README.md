@@ -21,4 +21,3 @@ Prerequisites
 1. Clone the repo:
    ```bash
    cd git clone https://github.com/princechauhann0/Health-Management-System.git
-cd Health-Management-System
